@@ -79,6 +79,8 @@ Contributions are welcome! This project is open to improvements, including bug f
 -   Push your branch
 -   Open a Pull Request describing your changes
 
+**Note:** If you’d like to contribute, check the GitHub Issues section for proposed improvements and ideas.
+
 ## License
 This project is licensed under the MIT License.  
 You are free to use, modify, and distribute this software in accordance with the license terms.
